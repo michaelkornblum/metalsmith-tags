@@ -30,6 +30,6 @@
     "moment": "^2.10.3"
   },
   "dependencies": {
-    "slug": "^0.9.1"
+    "slug": "git+https://github.com/vvanmol/node-slug.git"
   }
 }
